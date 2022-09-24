@@ -1,0 +1,15 @@
+.main-content {
+
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+
+
+}
+
+.main-half {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(235, 235, 235);
+  border-radius: 25px;
+  padding: 40px;
+}
